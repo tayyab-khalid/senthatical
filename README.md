@@ -5,9 +5,13 @@
 Photo gallary comes with advanced static features like carousels, dropdowns, gallary, etc. Multi-sectional pages like Home, About, Blog and Portfolio with user-friendly and eligent interface. Used dark color pallete with accent and agenda schemes. Medium sized text handling. Used resources are following:
 
 **Bootstrap v_4.3.1**
+
 **Owl Carousel v_2.3.4**
+
 **Mixitup v_3**
+
 **Font Awsome v_4.7.0**
+
 **jquery v_3.2.1**
 
 
